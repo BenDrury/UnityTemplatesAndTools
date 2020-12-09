@@ -3,6 +3,7 @@ using System.IO;
 using UnityEditor;
 
 // Source StackOverflow "Unity Add Default Namespace to Script Template" - mrcomplicated(2020) https://stackoverflow.com/a/63596183
+// Sets the namespace based on the file directorys
 
 public class NamespaceResolver : UnityEditor.AssetModificationProcessor
 {
