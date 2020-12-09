@@ -1,0 +1,2 @@
+• AssetModificationProcessors - Place in a "Editor" folder under a projects Assets Folder.
+• UnityScriptTemplates - Place in UnityEngine install location "\#UnityVersion#\Editor\Data\Resources\ScriptTemplates"
